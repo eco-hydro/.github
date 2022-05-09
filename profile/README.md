@@ -13,9 +13,10 @@
 
 - Second generation Whittaker on the GEE (Kong et al., 2019 & 2022)
   > solve the problem of seasonal signal submerged.
-  1. https://github.com/eco-hydro/Whittaker2.jl
-  2. https://github.com/eco-hydro/curvefit.jl
-  3. https://github.com/eco-hydro/phenofit.jl
+  1. https://github.com/gee-hydro/gee_whittaker
+  2. https://github.com/eco-hydro/Whittaker2.jl
+  3. https://github.com/eco-hydro/curvefit.jl
+  4. https://github.com/eco-hydro/phenofit.jl
 
 - Spatiotemporal Whittaker in Julia (Cao, et al., 2018; Evans, et al., 2021)
 
